@@ -1,0 +1,2 @@
+Igrac: mihajlo
+Suma: 200000
